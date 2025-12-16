@@ -8,11 +8,11 @@ NASA SpaceX AI Assistance Chatbot is an intelligent research assistant that prov
 
 ## Screenshots
 
-![Chatbot Interface](Chatbot.jpg)
-
 ![Main Home Page](main_home_page.png)
 
 ![Map View](map.png)
+
+![Chatbot Interface](Chatbot.jpg)
 
 ## Backend
 
