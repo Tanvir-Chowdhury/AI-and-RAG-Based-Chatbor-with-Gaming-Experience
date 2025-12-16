@@ -1,4 +1,4 @@
-# NASA SpaceX AI Assistance Chatbot
+# NASA Space App Challenge - AI Assistance Chatbot
 
 Deployed: https://3js-test-theta.vercel.app/
 
